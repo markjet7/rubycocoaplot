@@ -1,0 +1,1190 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4D08EB601384309400585F2F /* rubyplot */;
+		activeTarget = 8D1107260486CEB800E47090 /* rubyplot */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* rubyplot */,
+		);
+		codeSenseManager = 4D08EB741384309900585F2F /* Code sense */;
+		executables = (
+			4D08EB601384309400585F2F /* rubyplot */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					307,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328236591;
+			PBXWorkspaceStateSaveDate = 328236591;
+		};
+		perUserProjectItems = {
+			4D1CF25513907E380089610C /* PBXTextBookmark */ = 4D1CF25513907E380089610C /* PBXTextBookmark */;
+			4D1CF25613907E380089610C /* PBXTextBookmark */ = 4D1CF25613907E380089610C /* PBXTextBookmark */;
+			4D1CF26613907E820089610C /* PBXTextBookmark */ = 4D1CF26613907E820089610C /* PBXTextBookmark */;
+			4D1CF26713907E820089610C /* PBXTextBookmark */ = 4D1CF26713907E820089610C /* PBXTextBookmark */;
+			4D1CF26813907E820089610C /* PBXTextBookmark */ = 4D1CF26813907E820089610C /* PBXTextBookmark */;
+			4D1CF26D13907EB80089610C /* PBXTextBookmark */ = 4D1CF26D13907EB80089610C /* PBXTextBookmark */;
+			4D1CF26E13907EB80089610C /* PBXTextBookmark */ = 4D1CF26E13907EB80089610C /* PBXTextBookmark */;
+			4D1CF26F13907EB80089610C /* PBXTextBookmark */ = 4D1CF26F13907EB80089610C /* PBXTextBookmark */;
+			4D1CF27813907F520089610C /* PBXTextBookmark */ = 4D1CF27813907F520089610C /* PBXTextBookmark */;
+			4D1CF27913907F520089610C /* PBXTextBookmark */ = 4D1CF27913907F520089610C /* PBXTextBookmark */;
+			4D1CF27A13907F520089610C /* PBXTextBookmark */ = 4D1CF27A13907F520089610C /* PBXTextBookmark */;
+			4D1CF27B13907F520089610C /* PBXTextBookmark */ = 4D1CF27B13907F520089610C /* PBXTextBookmark */;
+			4D1CF27C13907F520089610C /* PBXTextBookmark */ = 4D1CF27C13907F520089610C /* PBXTextBookmark */;
+			4D1CF27D13907F520089610C /* PBXTextBookmark */ = 4D1CF27D13907F520089610C /* PBXTextBookmark */;
+			4D1CF28213907F760089610C /* PBXTextBookmark */ = 4D1CF28213907F760089610C /* PBXTextBookmark */;
+			4D1CF28713907F940089610C /* PBXTextBookmark */ = 4D1CF28713907F940089610C /* PBXTextBookmark */;
+			4D1CF295139080910089610C /* PBXTextBookmark */ = 4D1CF295139080910089610C /* PBXTextBookmark */;
+			4D1CF296139080910089610C /* PBXTextBookmark */ = 4D1CF296139080910089610C /* PBXTextBookmark */;
+			4D1CF297139080910089610C /* PBXTextBookmark */ = 4D1CF297139080910089610C /* PBXTextBookmark */;
+			4D1CF29C139080A00089610C /* PBXTextBookmark */ = 4D1CF29C139080A00089610C /* PBXTextBookmark */;
+			4D1CF2A21390815E0089610C /* PBXTextBookmark */ = 4D1CF2A21390815E0089610C /* PBXTextBookmark */;
+			4D1CF2A31390815E0089610C /* PBXTextBookmark */ = 4D1CF2A31390815E0089610C /* PBXTextBookmark */;
+			4D1CF2A41390815E0089610C /* PBXTextBookmark */ = 4D1CF2A41390815E0089610C /* PBXTextBookmark */;
+			4D1CF2A61390817B0089610C /* PBXTextBookmark */ = 4D1CF2A61390817B0089610C /* PBXTextBookmark */;
+			4D1CF2A71390817B0089610C /* PBXTextBookmark */ = 4D1CF2A71390817B0089610C /* PBXTextBookmark */;
+			4D1CF2A81390817B0089610C /* PBXTextBookmark */ = 4D1CF2A81390817B0089610C /* PBXTextBookmark */;
+			4D1CF2A91390819B0089610C /* PBXTextBookmark */ = 4D1CF2A91390819B0089610C /* PBXTextBookmark */;
+			4D1CF2AA1390819B0089610C /* PBXTextBookmark */ = 4D1CF2AA1390819B0089610C /* PBXTextBookmark */;
+			4D1CF2AB1390819B0089610C /* PBXTextBookmark */ = 4D1CF2AB1390819B0089610C /* PBXTextBookmark */;
+			4D1CF2B01390822F0089610C /* PBXTextBookmark */ = 4D1CF2B01390822F0089610C /* PBXTextBookmark */;
+			4D1CF2B11390822F0089610C /* PBXTextBookmark */ = 4D1CF2B11390822F0089610C /* PBXTextBookmark */;
+			4D1CF2B21390822F0089610C /* PBXTextBookmark */ = 4D1CF2B21390822F0089610C /* PBXTextBookmark */;
+			4D1CF2B61390825F0089610C /* PBXTextBookmark */ = 4D1CF2B61390825F0089610C /* PBXTextBookmark */;
+			4D1CF2B71390825F0089610C /* PBXTextBookmark */ = 4D1CF2B71390825F0089610C /* PBXTextBookmark */;
+			4D1CF2B81390825F0089610C /* PBXTextBookmark */ = 4D1CF2B81390825F0089610C /* PBXTextBookmark */;
+			4D1CF2BC1390828F0089610C /* PBXTextBookmark */ = 4D1CF2BC1390828F0089610C /* PBXTextBookmark */;
+			4D1CF2BD1390828F0089610C /* PBXTextBookmark */ = 4D1CF2BD1390828F0089610C /* PBXTextBookmark */;
+			4D1CF2BE1390828F0089610C /* PBXTextBookmark */ = 4D1CF2BE1390828F0089610C /* PBXTextBookmark */;
+			4D1CF2C2139082A60089610C /* PBXTextBookmark */ = 4D1CF2C2139082A60089610C /* PBXTextBookmark */;
+			4D1CF2C6139083190089610C /* PBXTextBookmark */ = 4D1CF2C6139083190089610C /* PBXTextBookmark */;
+			4D1CF2C7139083190089610C /* PBXTextBookmark */ = 4D1CF2C7139083190089610C /* PBXTextBookmark */;
+			4D1CF2C8139083190089610C /* PBXTextBookmark */ = 4D1CF2C8139083190089610C /* PBXTextBookmark */;
+			4D1CF2CD139083E70089610C /* PBXTextBookmark */ = 4D1CF2CD139083E70089610C /* PBXTextBookmark */;
+			4D1CF2CE139083E70089610C /* PBXTextBookmark */ = 4D1CF2CE139083E70089610C /* PBXTextBookmark */;
+			4D1CF2CF139083E70089610C /* PBXTextBookmark */ = 4D1CF2CF139083E70089610C /* PBXTextBookmark */;
+			4D1CF2D0139083E70089610C /* PBXTextBookmark */ = 4D1CF2D0139083E70089610C /* PBXTextBookmark */;
+			4D1CF2D5139084A50089610C /* PBXTextBookmark */ = 4D1CF2D5139084A50089610C /* PBXTextBookmark */;
+			4D1CF2D6139084A50089610C /* PBXTextBookmark */ = 4D1CF2D6139084A50089610C /* PBXTextBookmark */;
+			4D1CF2D7139084A50089610C /* PBXTextBookmark */ = 4D1CF2D7139084A50089610C /* PBXTextBookmark */;
+			4D1CF2DC139084D40089610C /* PBXTextBookmark */ = 4D1CF2DC139084D40089610C /* PBXTextBookmark */;
+			4D1CF2DD139084D40089610C /* PBXTextBookmark */ = 4D1CF2DD139084D40089610C /* PBXTextBookmark */;
+			4D1CF2DE139084D40089610C /* PBXTextBookmark */ = 4D1CF2DE139084D40089610C /* PBXTextBookmark */;
+			4D1CF2DF139084D40089610C /* PBXTextBookmark */ = 4D1CF2DF139084D40089610C /* PBXTextBookmark */;
+			4D1CF2E3139085170089610C /* PBXTextBookmark */ = 4D1CF2E3139085170089610C /* PBXTextBookmark */;
+			4D1CF2E4139085170089610C /* PBXTextBookmark */ = 4D1CF2E4139085170089610C /* PBXTextBookmark */;
+			4D1CF2E5139085170089610C /* PBXTextBookmark */ = 4D1CF2E5139085170089610C /* PBXTextBookmark */;
+			4D1CF2E91390855B0089610C /* PBXTextBookmark */ = 4D1CF2E91390855B0089610C /* PBXTextBookmark */;
+			4D1CF2EA1390855B0089610C /* PBXTextBookmark */ = 4D1CF2EA1390855B0089610C /* PBXTextBookmark */;
+			4D1CF2EB1390855B0089610C /* PBXTextBookmark */ = 4D1CF2EB1390855B0089610C /* PBXTextBookmark */;
+			4D1CF2F01390856D0089610C /* PBXTextBookmark */ = 4D1CF2F01390856D0089610C /* PBXTextBookmark */;
+			4D1CF2F4139085820089610C /* PBXTextBookmark */ = 4D1CF2F4139085820089610C /* PBXTextBookmark */;
+			4D1CF2F8139085A10089610C /* PBXTextBookmark */ = 4D1CF2F8139085A10089610C /* PBXTextBookmark */;
+			4D1CF2FC139085B60089610C /* PBXTextBookmark */ = 4D1CF2FC139085B60089610C /* PBXTextBookmark */;
+			4D1CF300139085D20089610C /* PBXTextBookmark */ = 4D1CF300139085D20089610C /* PBXTextBookmark */;
+			4D1CF3041390864A0089610C /* PBXTextBookmark */ = 4D1CF3041390864A0089610C /* PBXTextBookmark */;
+			4D1CF3051390864A0089610C /* PBXTextBookmark */ = 4D1CF3051390864A0089610C /* PBXTextBookmark */;
+			4D1CF3061390864A0089610C /* PBXTextBookmark */ = 4D1CF3061390864A0089610C /* PBXTextBookmark */;
+			4D1CF30A139086590089610C /* PBXTextBookmark */ = 4D1CF30A139086590089610C /* PBXTextBookmark */;
+			4D1CF30B139086590089610C /* PBXTextBookmark */ = 4D1CF30B139086590089610C /* PBXTextBookmark */;
+			4D1CF30C139086590089610C /* PBXTextBookmark */ = 4D1CF30C139086590089610C /* PBXTextBookmark */;
+			4D1CF310139086680089610C /* PBXTextBookmark */ = 4D1CF310139086680089610C /* PBXTextBookmark */;
+			4D1CF3141390867A0089610C /* PBXTextBookmark */ = 4D1CF3141390867A0089610C /* PBXTextBookmark */;
+			4D1CF318139086A70089610C /* PBXTextBookmark */ = 4D1CF318139086A70089610C /* PBXTextBookmark */;
+			4D1CF31D139086C90089610C /* PBXTextBookmark */ = 4D1CF31D139086C90089610C /* PBXTextBookmark */;
+			4D1CF31E139086C90089610C /* PBXTextBookmark */ = 4D1CF31E139086C90089610C /* PBXTextBookmark */;
+			4D1CF31F139086C90089610C /* PBXTextBookmark */ = 4D1CF31F139086C90089610C /* PBXTextBookmark */;
+			4D1CF324139086DD0089610C /* PBXTextBookmark */ = 4D1CF324139086DD0089610C /* PBXTextBookmark */;
+			4D1CF325139086DD0089610C /* PBXTextBookmark */ = 4D1CF325139086DD0089610C /* PBXTextBookmark */;
+			4D1CF326139086DD0089610C /* PBXTextBookmark */ = 4D1CF326139086DD0089610C /* PBXTextBookmark */;
+			4D1CF32B1390870B0089610C /* PBXTextBookmark */ = 4D1CF32B1390870B0089610C /* PBXTextBookmark */;
+			4D1CF3301390871C0089610C /* PBXTextBookmark */ = 4D1CF3301390871C0089610C /* PBXTextBookmark */;
+			4D1CF3311390871C0089610C /* PBXTextBookmark */ = 4D1CF3311390871C0089610C /* PBXTextBookmark */;
+			4D1CF3321390871C0089610C /* PBXTextBookmark */ = 4D1CF3321390871C0089610C /* PBXTextBookmark */;
+			4D1CF3361390873C0089610C /* PBXTextBookmark */ = 4D1CF3361390873C0089610C /* PBXTextBookmark */;
+			4D1CF3371390873C0089610C /* PBXTextBookmark */ = 4D1CF3371390873C0089610C /* PBXTextBookmark */;
+			4D1CF3381390873C0089610C /* PBXTextBookmark */ = 4D1CF3381390873C0089610C /* PBXTextBookmark */;
+			4D21146D138B348C00D8CD7E = 4D21146D138B348C00D8CD7E /* PBXTextBookmark */;
+			4D211553138CA6D400D8CD7E = 4D211553138CA6D400D8CD7E /* PBXTextBookmark */;
+			4D211576138CA8D200D8CD7E = 4D211576138CA8D200D8CD7E /* PBXTextBookmark */;
+			4D21157C138CA96D00D8CD7E = 4D21157C138CA96D00D8CD7E /* PBXTextBookmark */;
+			4D21157D138CA96D00D8CD7E = 4D21157D138CA96D00D8CD7E /* PBXTextBookmark */;
+			4D211581138DDAD100D8CD7E = 4D211581138DDAD100D8CD7E /* PBXTextBookmark */;
+			4D211582138DDAD100D8CD7E = 4D211582138DDAD100D8CD7E /* PBXTextBookmark */;
+			4D211583138DDAD100D8CD7E = 4D211583138DDAD100D8CD7E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4D08EB731384309900585F2F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D08EB601384309400585F2F /* rubyplot */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = rubyplot;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4D08EB731384309900585F2F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4D08EB741384309900585F2F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4D08EB761384317F00585F2F /* painter.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {485, 520}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 592}";
+			sepNavWindowFrame = "{{15, 233}, {959, 640}}";
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	4D1CF25513907E380089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 64;
+	};
+	4D1CF25613907E380089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 64;
+	};
+	4D1CF26613907E820089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 186;
+	};
+	4D1CF26713907E820089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 64;
+	};
+	4D1CF26813907E820089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 22";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 64;
+	};
+	4D1CF26D13907EB80089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D21109B1387456F00D8CD7E /* axis.rb */;
+		name = "axis.rb: 27";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 1267;
+	};
+	4D1CF26E13907EB80089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 22";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 64;
+	};
+	4D1CF26F13907EB80089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 23";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 64;
+	};
+	4D1CF27813907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 23";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 64;
+	};
+	4D1CF27913907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 12";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 38;
+	};
+	4D1CF27A13907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2110C713874A5000D8CD7E /* plot_xy.rb */;
+		name = "plot_xy.rb: 19";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	4D1CF27B13907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2114EE138B431700D8CD7E /* dataModel.rb */;
+		name = "dataModel.rb: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 394;
+	};
+	4D1CF27C13907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 186;
+	};
+	4D1CF27D13907F520089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 35";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 416;
+	};
+	4D1CF28213907F760089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 15";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 186;
+	};
+	4D1CF28713907F940089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 21";
+		rLen = 0;
+		rLoc = 493;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 186;
+	};
+	4D1CF295139080910089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 26";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 128;
+	};
+	4D1CF296139080910089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 8";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 13;
+	};
+	4D1CF297139080910089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 33";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 218;
+	};
+	4D1CF29C139080A00089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 213;
+	};
+	4D1CF2A21390815E0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 10;
+	};
+	4D1CF2A31390815E0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 157;
+	};
+	4D1CF2A41390815E0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 111;
+	};
+	4D1CF2A61390817B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 10;
+	};
+	4D1CF2A71390817B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 15";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 111;
+	};
+	4D1CF2A81390817B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 111;
+	};
+	4D1CF2A91390819B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 111;
+	};
+	4D1CF2AA1390819B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 10;
+	};
+	4D1CF2AB1390819B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 10;
+	};
+	4D1CF2B01390822F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 111;
+	};
+	4D1CF2B11390822F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 10;
+	};
+	4D1CF2B21390822F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 10;
+	};
+	4D1CF2B61390825F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 10;
+	};
+	4D1CF2B71390825F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 111;
+	};
+	4D1CF2B81390825F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 111;
+	};
+	4D1CF2BC1390828F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 155;
+	};
+	4D1CF2BD1390828F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 12";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 10;
+	};
+	4D1CF2BE1390828F0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 10;
+	};
+	4D1CF2C2139082A60089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 10;
+	};
+	4D1CF2C6139083190089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 16";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	4D1CF2C7139083190089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 10;
+	};
+	4D1CF2C8139083190089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 10;
+	};
+	4D1CF2CD139083E70089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 107;
+	};
+	4D1CF2CE139083E70089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 22";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 626;
+		vrLoc = 24;
+	};
+	4D1CF2CF139083E70089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 18";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 38;
+	};
+	4D1CF2D0139083E70089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 22";
+		rLen = 0;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 228;
+	};
+	4D1CF2D5139084A50089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 22";
+		rLen = 0;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 36;
+	};
+	4D1CF2D6139084A50089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 22";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 13;
+	};
+	4D1CF2D7139084A50089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 32";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 220;
+	};
+	4D1CF2DC139084D40089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 107;
+	};
+	4D1CF2DD139084D40089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 32";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 155;
+	};
+	4D1CF2DE139084D40089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2114EE138B431700D8CD7E /* dataModel.rb */;
+		name = "dataModel.rb: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	4D1CF2DF139084D40089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 20";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 664;
+		vrLoc = 122;
+	};
+	4D1CF2E3139085170089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 32";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 220;
+	};
+	4D1CF2E4139085170089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 20";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 122;
+	};
+	4D1CF2E5139085170089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 20";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 664;
+		vrLoc = 122;
+	};
+	4D1CF2E91390855B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 19";
+		rLen = 0;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 122;
+	};
+	4D1CF2EA1390855B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 14";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 64;
+	};
+	4D1CF2EB1390855B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 24";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 108;
+	};
+	4D1CF2F01390856D0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 108;
+	};
+	4D1CF2F4139085820089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 13";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 108;
+	};
+	4D1CF2F8139085A10089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 28";
+		rLen = 0;
+		rLoc = 631;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 108;
+	};
+	4D1CF2FC139085B60089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 19";
+		rLen = 0;
+		rLoc = 479;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 108;
+	};
+	4D1CF300139085D20089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 29";
+		rLen = 0;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 108;
+	};
+	4D1CF3041390864A0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 29";
+		rLen = 0;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 108;
+	};
+	4D1CF3051390864A0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D21109B1387456F00D8CD7E /* axis.rb */;
+		name = "axis.rb: 27";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 1267;
+	};
+	4D1CF3061390864A0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D21109B1387456F00D8CD7E /* axis.rb */;
+		name = "axis.rb: 29";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 1337;
+	};
+	4D1CF30A139086590089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D21109B1387456F00D8CD7E /* axis.rb */;
+		name = "axis.rb: 29";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 1337;
+	};
+	4D1CF30B139086590089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 29";
+		rLen = 0;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 128;
+	};
+	4D1CF30C139086590089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 19";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 108;
+	};
+	4D1CF310139086680089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 19";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 108;
+	};
+	4D1CF3141390867A0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 18";
+		rLen = 0;
+		rLoc = 459;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 108;
+	};
+	4D1CF318139086A70089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 108;
+	};
+	4D1CF31D139086C90089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 108;
+	};
+	4D1CF31E139086C90089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 32";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 245;
+	};
+	4D1CF31F139086C90089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 11";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 0;
+	};
+	4D1CF324139086DD0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 11";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 0;
+	};
+	4D1CF325139086DD0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 19";
+		rLen = 0;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 122;
+	};
+	4D1CF326139086DD0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 19";
+		rLen = 0;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 122;
+	};
+	4D1CF32B1390870B0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 21";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 319;
+	};
+	4D1CF3301390871C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 21";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 319;
+	};
+	4D1CF3311390871C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 108;
+	};
+	4D1CF3321390871C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 108;
+	};
+	4D1CF3361390873C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 20";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 108;
+	};
+	4D1CF3371390873C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 21";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 319;
+	};
+	4D1CF3381390873C0089610C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 20";
+		rLen = 0;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 319;
+	};
+	4D211099138743F900D8CD7E /* axes.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {485, 429}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{108, 605}";
+			sepNavWindowFrame = "{{38, 212}, {959, 640}}";
+		};
+	};
+	4D21109B1387456F00D8CD7E /* axis.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 1261}}";
+			sepNavSelRange = "{643, 0}";
+			sepNavVisRange = "{1337, 608}";
+		};
+	};
+	4D2110C713874A5000D8CD7E /* plot_xy.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 342}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {488, 494}}";
+			sepNavSelRange = "{467, 0}";
+			sepNavVisRange = "{319, 531}";
+		};
+	};
+	4D21146D138B348C00D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DE339F60D74FCDD00ADB6EE /* rb_main.rb */;
+		name = "rb_main.rb: 19";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	4D2114EE138B431700D8CD7E /* dataModel.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {586, 572}}";
+			sepNavSelRange = "{721, 0}";
+			sepNavVisRange = "{0, 607}";
+		};
+	};
+	4D211553138CA6D400D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2110C713874A5000D8CD7E /* plot_xy.rb */;
+		name = "plot_xy.rb: 19";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	4D211576138CA8D200D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 107;
+	};
+	4D21157C138CA96D00D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2114EE138B431700D8CD7E /* dataModel.rb */;
+		name = "dataModel.rb: 7";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	4D21157D138CA96D00D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D08EB761384317F00585F2F /* painter.rb */;
+		name = "painter.rb: 15";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 186;
+	};
+	4D211581138DDAD100D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D2112BE1389E6FB00D8CD7E /* rubyplotController.rb */;
+		name = "rubyplotController.rb: 14";
+		rLen = 1;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 25;
+	};
+	4D211582138DDAD100D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D21109B1387456F00D8CD7E /* axis.rb */;
+		name = "axis.rb: 27";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 1705;
+	};
+	4D211583138DDAD100D8CD7E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D211099138743F900D8CD7E /* axes.rb */;
+		name = "axes.rb: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 64;
+	};
+	4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 339}}";
+			sepNavSelRange = "{542, 0}";
+			sepNavVisRange = "{0, 607}";
+		};
+	};
+	8D1107260486CEB800E47090 /* rubyplot */ = {
+		activeExec = 0;
+		executables = (
+			4D08EB601384309400585F2F /* rubyplot */,
+		);
+	};
+}

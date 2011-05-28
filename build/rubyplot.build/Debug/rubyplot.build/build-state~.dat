@@ -1,0 +1,185 @@
+Trubyplot
+v7
+r0
+t327549270.659704
+cCheck dependencies
+cProcessInfoPlistFile /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/rubyplot.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib
+cCpResource build/Debug/rubyplot.app/Contents/Resources/painter.rb painter.rb
+cCompileC build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/main.o /Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot normal x86_64
+cTouch /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004D65A78C0000000000000106
+t1298507660
+s262
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004D6827A400000000014E8CA8
+t1298671524
+s21925032
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D005D57000000000000A5E0
+t1291869527
+s42464
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/InfoPlist.strings
+c000000004DD3F91400000000000000AE
+t1305737492
+s174
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib
+c000000004DD5C9BE000000000001CCB5
+t1305856446
+s117941
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app
+t1305856470
+s102
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Info.plist
+t1305856468
+s1168
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot
+t1305856470
+s9064
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/PkgInfo
+t1305856468
+s8
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1305856468
+s174
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/MainMenu.nib
+t1305856468
+s19777
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/painter.rb
+t1305856468
+s406
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/rb_main.rb
+t1305856468
+s607
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/main.o
+t1305856470
+s5364
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/rubyplot.LinkFileList
+c000000004DD5C9D40000000000000071
+t1305856468
+s113
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m
+c000000004DD3F91400000000000000EF
+t1305737492
+s239
+i<MacRuby/MacRuby.h>
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/painter.rb
+c000000004DD5C9710000000000000196
+t1305856369
+s406
+
+N/Users/Mark/Projects/Ruby/plotTK/rubyplot/rb_main.rb
+c000000004DD3F914000000000000025F
+t1305737492
+s607
+
+NInfo.plist
+c000000004DD3F9140000000000000345
+t1305737492
+s837
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327549267#327549268#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/main.o /Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327549268.624272
+e327549270.341459
+r1
+xCompileC
+xbuild/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/main.o
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m327549268#327549270#0(0"0(0#0#48"/Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m8626255744#1009"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/rubyplot.hmap -F/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug -F/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug -I/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/include -I/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/DerivedSources/x86_64 -I/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/DerivedSources -c /Users/Mark/Projects/Ruby/plotTK/rubyplot/main.m -o /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib
+s327549268.045710
+e327549268.624153
+r1
+xCompileXIB
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib327549268#327549268#0(0"0(0#0#68"/Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib8624944192#374"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s327549268.039471
+e327549268.159039
+r1
+xCopyStringsFile
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings327549268#327549268#0(0"0(0#0#73"/Users/Mark/Projects/Ruby/plotTK/rubyplot/English.lproj/InfoPlist.strings8624785568#373"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/rubyplot.app/Contents/Resources/painter.rb painter.rb
+s327549268.159141
+e327549268.166133
+r1
+xCpResource
+xbuild/Debug/rubyplot.app/Contents/Resources/painter.rb
+xpainter.rb
+lSLF07#2@15"Copy painter.rb327549268#327549268#0(0"0(0#0#52"/Users/Mark/Projects/Ruby/plotTK/rubyplot/painter.rb8627473248#350"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Mark/Projects/Ruby/plotTK/rubyplot/painter.rb /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources0#
+
+CCpResource build/Debug/rubyplot.app/Contents/Resources/rb_main.rb rb_main.rb
+s327549268.043900
+e327549268.078443
+r1
+xCpResource
+xbuild/Debug/rubyplot.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb327549268#327549268#0(0"0(0#0#52"/Users/Mark/Projects/Ruby/plotTK/rubyplot/rb_main.rb8625709760#350"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Mark/Projects/Ruby/plotTK/rubyplot/rb_main.rb /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Resources0#
+
+CLd /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot normal x86_64
+s327549270.341715
+e327549270.653979
+r1
+xLd
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot
+xnormal
+xx86_64
+lSLF07#2@95"Link /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot327549270#327549270#0(0"0(0#0#0"8625787232#637"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug -F/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug -F/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug -filelist /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/rubyplot.build/Debug/rubyplot.build/Objects-normal/x86_64/rubyplot.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/MacOS/rubyplot0#
+
+CProcessInfoPlistFile /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Info.plist Info.plist
+s327549268.029819
+e327549268.039341
+r1
+xProcessInfoPlistFile
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist327549268#327549268#0(0"0(0#0#52"/Users/Mark/Projects/Ruby/plotTK/rubyplot/Info.plist32088349215228020#313"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    builtin-infoPlistUtility Info.plist -genpkginfo /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app/Contents/Info.plist0#
+
+CTouch /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app
+s327549270.654096
+e327549270.659656
+r1
+xTouch
+x/Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app
+lSLF07#2@72"Touch /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app327549270#327549270#0(0"0(0#0#0"8626004096#138"    cd /Users/Mark/Projects/Ruby/plotTK/rubyplot    /usr/bin/touch -c /Users/Mark/Projects/Ruby/plotTK/rubyplot/build/Debug/rubyplot.app0#
+
